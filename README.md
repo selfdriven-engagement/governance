@@ -1,6 +1,3 @@
----
-description: https://selfdriven.foundation/governance
----
-
 # Governance
 
+[https://selfdriven.foundation/governance](https://selfdriven.foundation/governance)

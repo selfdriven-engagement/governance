@@ -1,6 +1,3 @@
----
-description: https://selfdriven.foundation/roadmap
----
-
 # Roadmap
 
+[https://selfdriven.foundation/roadmap](https://selfdriven.foundation/roadmap)
