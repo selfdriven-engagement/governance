@@ -1,2 +1,6 @@
-# governance
-Governance, roadmap, updates
+---
+description: https://selfdriven.foundation/governance
+---
+
+# Governance
+
