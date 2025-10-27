@@ -7,6 +7,9 @@ description: "selfdriven Gov - Updates"
 
 # Update # NOV 2025
 
+We haven't done an update for a little while, so this is a catch up one!
+We plan to grt back to monthly updates / refkections.
+ 
 ## selfdriven Foundation
 
 ### # Websites — Actuate
