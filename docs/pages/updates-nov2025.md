@@ -32,7 +32,7 @@ We’ve secured the .selfdriven top-level domain on the Handshake decentralised 
 
 ### # Summit Preparation
 
-Early work has started for a selfdriven Reflect & Project — bringing together communities.
+Early work has started for a "*selfdriven Reflect & Project*" event — bringing together communities - possibly in Mallorca at the Beyonders Collective BioHub *?*
 
 ### # Merch / Shop
 
