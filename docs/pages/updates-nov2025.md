@@ -7,35 +7,7 @@ description: "selfdriven Gov - Updates"
 
 # Update - # NOV 2025
 
-Beyond all the research, frameworks, and multi-dimensional building — **selfdriven.services** is busy delivering real-world projects that connect purpose with practice.
-
-## Real-World Delivery
-
-### Insurance (Private Pilot)
-
-We’re quietly operating a private-pilot insurance model built on SSI and trust frameworks — a proving ground for what community-anchored risk management looks like.
-
-### Health
-
-**selfdriven.health** is taking shape  — focused on member-based models for better health outcomes, powered by **beHub** and SSI integration.
-
-### BioHub
-
-The **BioHub** project continues momentum, tying regenerative practice to verifiable data and impact-linked rewards.
-
-### Unity Node — SDF Infra Interface
-
-The **Unity Node** infrastructure is live under the **selfdriven.foundation** banner — enabling community participation via rewards or donation routes.
-
-This forms part of the **Infra Interface** layer of **selfdriven.network**.
-
-### University Community of Practice
-
-The **University Community of Practice (CoP)** is growing, exploring how learning communities can self-actuate using the selfdriven framework and Cardano as a root of trust.
-
----
-
-## Network & Interfaces
+## selfdriven Foundation
 
 ### Catalyst Projects
 Several selfdriven-aligned proposals are in motion — connecting SSI, AI, and governance systems to real-world outcomes.
@@ -60,3 +32,28 @@ We’re advancing work across the **Interface Stack** — from **WebAuthn** and 
 
 ---
 
+## selfdriven Services
+
+Beyond all the research, frameworks, and multi-dimensional building — **selfdriven.services** is busy delivering real-world projects that connect purpose with practice.
+
+### Insurance (Private Pilot)
+
+We’re quietly operating a private-pilot insurance model built on SSI and trust frameworks — a proving ground for what community-anchored risk management looks like.
+
+### Health
+
+**selfdriven.health** is taking shape  — focused on member-based models for better health outcomes, powered by **beHub** and SSI integration.
+
+### BioHub
+
+The **BioHub** project continues momentum, tying regenerative practice to verifiable data and impact-linked rewards.
+
+### Unity Node — SDF Infra Interface
+
+The **Unity Node** infrastructure is live under the **selfdriven.foundation** banner — enabling community participation via rewards or donation routes.
+
+This forms part of the **Infra Interface** layer of **selfdriven.network**.
+
+### University Community of Practice
+
+The **University Community of Practice (CoP)** is growing, exploring how learning communities can self-actuate using the selfdriven framework and Cardano as a root of trust.
