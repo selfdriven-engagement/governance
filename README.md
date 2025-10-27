@@ -1,7 +1,6 @@
 # Governance
 
-[https://selfdriven.foundation/governance](https://selfdriven.foundation/governance)
+## selfdriven Foundation Governance
 
--
-
+---
 [gov.selfdriven.foundation](https://gov.selfdriven.foundation)
