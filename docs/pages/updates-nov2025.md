@@ -10,25 +10,26 @@ description: "selfdriven Gov - Updates"
 ## selfdriven Foundation
 
 ### Catalyst Projects
-Several selfdriven-aligned proposals are in motion — connecting SSI, AI, and governance systems to real-world outcomes.
+
+> Several selfdriven-aligned proposals are in motion — connecting SSI, AI, and governance systems to real-world outcomes.
 
 ### Websites — Actuate
-The family of selfdriven sites (**health**, **foundation**, **network**, **university**, etc.) are being aligned under the **Actuate** structure — simplifying access and purpose clarity.
+> The family of selfdriven sites (**health**, **foundation**, **network**, **university**, etc.) are being aligned under the **Actuate** structure — simplifying access and purpose clarity.
 
 ### AI — Diagrams & Frameworks
-Expanding our AI interface work — turning complex systems into **visual frameworks**, helping people and communities navigate change and decisions more clearly.
+> Expanding our AI interface work — turning complex systems into **visual frameworks**, helping people and communities navigate change and decisions more clearly.
 
 ### Handshake Integration
-We’ve secured the **.selfdriven** top-level domain on the **Handshake decentralised DNS** — an important step towards resilient, trustless naming for our ecosystem.
+> We’ve secured the **.selfdriven** top-level domain on the **Handshake decentralised DNS** — an important step towards resilient, trustless naming for our ecosystem.
 
 ### Summit Preparation
-Early work has started for a **selfdriven Reflect & Project** — bringing together communities.
+> Early work has started for a **selfdriven Reflect & Project** — bringing together communities.
 
 ### Merch / Shop
-[shop.selfdriven.foundation](https://shop.selfdriven.foundation)
+> [shop.selfdriven.foundation](https://shop.selfdriven.foundation)
 
 ### Tech / Human Interfaces
-We’re advancing work across the **Interface Stack** — from **WebAuthn** and **SSI logins** to **human-friendly dashboards**, all the way down to **core data protocols**.
+> We’re advancing work across the **Interface Stack** — from **WebAuthn** and **SSI logins** to **human-friendly dashboards**, all the way down to **core data protocols**.
 
 ---
 
