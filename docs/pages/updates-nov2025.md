@@ -38,6 +38,10 @@ We’re advancing work across the **Interface Stack** — from **WebAuthn** and 
 - [link]
 - [link]
 
+### Research
+- [research.selfdriven.foundation]
+- [link] handshake
+
 ### # Catalyst Projects
 
 Several selfdriven-aligned proposals are in motion — connecting SSI, AI, and governance systems to real-world outcomes.
