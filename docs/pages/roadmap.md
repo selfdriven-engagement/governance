@@ -7,10 +7,22 @@ description: "selfdriven Gov - Roadmap"
 
 # Roadmap
 
-## 2026
+## Planning
+
+### 2026
 
 We are currently in planning for 2026, including our *seldriven Reflect & Project* in Berlin November 2025.
 
-### References
+---
+
+## Projects
+- skillzeb.io - SKILL.md
+- handshake
+- x402
+- human interface
+- ipfs
+
+---
+## References
 
 - [https://selfdriven.fyi/roadmap](https://selfdriven.fyi/roadmap)
