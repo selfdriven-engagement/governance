@@ -12,7 +12,7 @@ title: Home
 
 ### References
 
-- [More about Governance Framework](https://selfdriven.fyi/governance)
+- [More about Governance](https://selfdriven.fyi/governance)
 - [Community](https://selfdriven.fyi/community)
 - [Tokens](https://selfdriven.fyi/tokens)
 - [Tokenomics](https://selfdriven.fyi/tokenomics)
