@@ -9,14 +9,16 @@ description: "selfdriven Gov - Updates"
 
 We haven't done an update for a little while, so this is a catch up one!
 We plan to get back to monthly updates / reflections.
- 
+
+---
+
 ## selfdriven Foundation
 
 ### # Actuate ("Onboarding")
 
 A framework and resources for helping communities progressively self-actuate to become self-driven.
 
-- [actuate.selfdriven.foundation](https://actuate.selfdriven.foundation)
+- [actuate.selfdriven.community](https://actuate.selfdriven.community)
 
 ### # AI — Diagrams & Frameworks
 
@@ -60,6 +62,7 @@ We’re advancing work across the Interfaces.
 ### # Catalyst Projects
 
 - [energy.selfdriven.foundation](https://energy.selfdriven.foundation)
+
 
 ---
 
