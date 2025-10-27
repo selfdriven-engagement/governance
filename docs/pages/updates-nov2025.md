@@ -12,51 +12,65 @@ We plan to grt back to monthly updates / refkections.
  
 ## selfdriven Foundation
 
-### # Websites — Actuate
-The family of selfdriven sites (**health**, **foundation**, **network**, **university**, etc.) are being aligned under the **Actuate** structure — simplifying access and purpose clarity.
-- [link]
+### # Actuate ("Onboarding")
+
+A framework and resources for helping communities progressively self-actuate to become self-driven.
+
+- [actuate.selfdriven.foundation](https://actuate.selfdriven.foundation)
 
 ### # AI — Diagrams & Frameworks
+
 Expanding our AI interface work — turning complex systems into **visual frameworks**, helping people and communities navigate change and decisions more clearly.
-- [link]
+
+- [selfdriven.ai](https://selfdriven.ai)
 
 ### # Handshake Integration
+
 We’ve secured the **.selfdriven** top-level domain on the **Handshake decentralised DNS** — an important step towards resilient, trustless naming for our ecosystem.
-- [link]
+
+- [selfdriven.network](https://selfdriven.network)
 
 ### # Summit Preparation
+
 Early work has started for a **selfdriven Reflect & Project** — bringing together communities.
 
 ### # Merch / Shop
+
 - [shop.selfdriven.foundation](https://shop.selfdriven.foundation)
 
 ### # Tech / Human Interfaces
+
 We’re advancing work across the **Interface Stack** — from **WebAuthn** and **SSI logins** to **human-friendly dashboards**, all the way down to **core data protocols**.
-- [link]
+
+- [selfdriven.network](https://selfdriven.network)
 
 ### Education
-- [link]
+
+- [selfdriven.education](https://selfdriven.education)
 
 ### Frameworks
-- [link]
-- [link]
+
+- [selfdriven AI Impact on Mind Framework](/impact-on-mind-framework/)
+- [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
 
 ### Research
+
 - [research.selfdriven.foundation]
-- [link] handshake
 
 ### # Catalyst Projects
 
 Several selfdriven-aligned proposals are in motion — connecting SSI, AI, and governance systems to real-world outcomes.
 Selecting two gor F15
 
-- [link]
+- [energy.selfdriven.foundation](https://energy.selfdriven.foundation)
 
 ---
 
 ## selfdriven Services
 
 Beyond all the research, frameworks, and multi-dimensional building — **selfdriven.services** is busy delivering real-world projects that connect purpose with practice.
+
+- [selfdriven.services](https://selfdriven.services)
 
 ### # Insurance (Private Pilot)
 
@@ -65,24 +79,28 @@ We’re quietly operating a private-pilot insurance model built on SSI and trust
 ### # Health
 
 **selfdriven.health** is taking shape  — focused on member-based models for better health outcomes, powered by **beHub** and SSI integration.
-- [link]
+
+- [selfdriven.health](https://selfdriven.health)
 
 ### # BioHub
 
 The **BioHub** project continues momentum, tying regenerative practice to verifiable data and impact-linked rewards.
-- [link] - usecase
+
+- [actuate.selfdriven.community](https://actuate.selfdriven.community) - usecase
 
 ### # Unity Node — SDF Infra Interface
-- [link] - selfdriven.tel
+
+- [selfdriven.tel](https://selfdriven.tel) - selfdriven.tel
 
 The **Unity Node** infrastructure is live under the **selfdriven.foundation** banner — enabling community participation via rewards or donation routes.
 
 This forms part of the **Infra Interface** layer of **selfdriven.network**.
 
-- SDF holder rewards [link]
+- [SDF holder rewards](https://selfdriven.fyi/tokenomics)
 
 ### # University Community of Practice
 
 The **University Community of Practice (CoP)** is growing, exploring how learning communities can self-actuate using the selfdriven framework and Cardano as a root of trust.
-- [link] - join
-- [link] - Ben presentation
+
+- [selfdriven.university](https://selfdriven.university) - join
+- [Bilding Presentation by Benjamin](https://www.selfdriven.education/resources/bildung/)
