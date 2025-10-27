@@ -6,8 +6,9 @@ title: Home
 ## selfdriven Foundation Governance
 
 - [Roadmap](/roadmap/)
-- **Updates**
+- Updates:
     - [NOV2025](/updates/nov2025)
+    - [*Previous*](https://selfdriven.fyi/roadmap/#updates)
 
 ### References
 
