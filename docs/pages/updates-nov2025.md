@@ -72,6 +72,8 @@ The **Unity Node** infrastructure is live under the **selfdriven.foundation** ba
 
 This forms part of the **Infra Interface** layer of **selfdriven.network**.
 
+- SDF holder rewards [link]
+
 ### # University Community of Practice
 
 The **University Community of Practice (CoP)** is growing, exploring how learning communities can self-actuate using the selfdriven framework and Cardano as a root of trust.
