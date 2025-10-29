@@ -7,7 +7,7 @@ description: "OCT2025 - selfdriven Gov - Updates"
 
 # Update # OCT 2025
 
-We haven't done an update for a little while, so this one’s a catch-up!
+**We haven't done an update for a little while, so this one’s a catch-up!**
 
 We plan to return to monthly updates and reflections.
 
@@ -28,9 +28,9 @@ Expanding our AI Interface work — turning complex systems into visual framewor
 ### selfdriven Get-Together — Cardano Summit, Berlin
 
 - For the first time, four of the co-founders will be together in Berlin this November!  
-- We’ll be attending the Cardano Summit and running the first **“selfdriven Reflect & Project”** session.  
-- Early work has also started for a follow-up **“Reflect & Project”** gathering — potentially in Mallorca at the Beyonders Collective BioHub *?*  
-- We look forward to catching up with many friends and collaborators at the Summit!
+- We’ll be attending the Cardano Summit and running the first *“selfdriven Reflect & Project”* session.  
+- Early work has also started for a follow-up *“Reflect & Project”* gathering for all of the selfdriven community.  
+- We look forward to catching up with many friends and collaborators at the Cardano Summit!
 
 ### Merch & Shop
 
@@ -74,7 +74,7 @@ We continue to develop frameworks that support the self-actualisation of individ
 
 ## selfdriven Services
 
-Beyond all the research, frameworks, and multidimensional building — [selfdriven.services](https://selfdriven.services) is busy delivering real-world projects that connect purpose with practice.
+**Beyond all the research, frameworks, and multidimensional building — [selfdriven.services](https://selfdriven.services) is busy delivering real-world projects that connect purpose with practice.**
  
 ### Insurance (Private Pilot)
 
@@ -84,7 +84,7 @@ In collaboration with key insurance ecosystem stakeholders in Australia, we’re
 
 [selfdriven.health](https://selfdriven.health) is taking shape — focused on member-based models for better health outcomes, powered by beHub and selfdriven.
 
-### BioHub
+### Community, Mallorca BioHub
 
 The BioHub project continues to gain momentum, linking regenerative practice with verifiable data and community development.  
 - [actuate.selfdriven.community/use-cases](https://actuate.selfdriven.community/use-cases)
