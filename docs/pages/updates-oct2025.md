@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Updates - selfdriven Gov
-permalink: /updates/nov2025/
-description: "selfdriven Gov - Updates"
+title: OCT2025 - Updates - selfdriven Gov
+permalink: /updates/oct2025/
+description: "OCT2025 - selfdriven Gov - Updates"
 ---
 
 # Update # OCT 2025
