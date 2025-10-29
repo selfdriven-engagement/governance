@@ -111,6 +111,7 @@ The BioHub project continues to gain momentum, linking regenerative practice wit
 - We’ve secured a Unity Node as part of [selfdriven.tel](https://www.selfdriven.tel/).  
 - Ownership is communitised.  
 - It will also present the first reward for holding [SDF Tokens](https://selfdriven.fyi/tokenomics) — more on this soon.
+    - You can still obtain SDF tokens buy support the foundation by [buying Octo art](https://selfdriven.fyi/supporter).
 
 ### University Community of Practice
 *Connecting educators and researchers around shared principles of Bildung.*
