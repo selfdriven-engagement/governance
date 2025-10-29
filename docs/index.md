@@ -7,7 +7,7 @@ title: Home
 
 - [Roadmap](/roadmap/)
 - Updates:
-    - [NOV2025](/updates/nov2025)
+    - [OCT2025](/updates/oct2025)
     - [*Previous*](https://selfdriven.fyi/roadmap/#updates)
 
 ### References
