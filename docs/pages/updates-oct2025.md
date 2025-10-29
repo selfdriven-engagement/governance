@@ -19,16 +19,14 @@ We plan to return to monthly updates and reflections.
 ### Actuate ("Onboarding")
 *Helping communities begin their selfdriven journey with clarity and purpose.*
 
-A framework and set of resources to help communities progressively self-actuate and become self-driven.
-
-- [actuate.selfdriven.community](https://actuate.selfdriven.community)
+- A framework and set of resources to help communities progressively self-actuate and become self-driven.
+    - [actuate.selfdriven.community](https://actuate.selfdriven.community)
 
 ### AI Diagrams & Frameworks
 *Turning intelligence into insight — visualising systems to make complexity actionable.*
 
-Expanding our AI Interface work — turning complex systems into visual frameworks to help people and communities navigate change and decisions more clearly.
-
-- [selfdriven.ai](https://selfdriven.ai)
+- Expanding our AI Interface work — turning complex systems into visual frameworks to help people and communities navigate change and decisions more clearly.
+    - [selfdriven.ai](https://selfdriven.ai)
 
 ### selfdriven Get-Together — Cardano Summit, Berlin
 *Connection and reflection as the selfdriven co-founders meet in person for the first time.*
@@ -48,11 +46,11 @@ Expanding our AI Interface work — turning complex systems into visual framewor
 *Building the digital backbone that connects people, data, and purpose.*
 
 - **Interfaces**  
-    Foundational work continues to align all APIs into eight clean Interfaces.  
+    - Foundational work continues to align all APIs into eight clean Interfaces.  
     - [selfdriven.network](https://selfdriven.network)
 
 - **Handshake / .selfdriven**  
-    We’ve secured the **.selfdriven** top-level domain on the Handshake decentralised DNS — an important step towards resilient, trustless naming for our ecosystem.  
+    - We’ve secured the **.selfdriven** top-level domain on the Handshake decentralised DNS — an important step towards resilient, trustless naming for our ecosystem.  
     - [selfdriven.network/infra-interface/handshake/](https://www.selfdriven.network/infra-interface/handshake/)
 
 ### Education
@@ -64,10 +62,9 @@ Expanding our AI Interface work — turning complex systems into visual framewor
 ### Frameworks
 *Designing mental models and organisational tools for self-actualisation.*
 
-We continue to develop frameworks that support the self-actualisation of individuals and their communities.
-
-- [AI Impact on Mind Framework](/impact-on-mind-framework/)  
-- [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
+- We continue to develop frameworks that support the self-actualisation of individuals and their communities.
+    - [AI Impact on Mind Framework](/impact-on-mind-framework/)  
+    - [Situational Awareness Framework for Organisations](/situational-awareness-framework/organisations/)
 
 ### Research
 *Grounding innovation in research — linking insight to impact.*
@@ -92,17 +89,17 @@ We continue to develop frameworks that support the self-actualisation of individ
 ### Insurance (Private Pilot)
 *Proving new models of trust in the insurance ecosystem.*
 
-In collaboration with key insurance ecosystem stakeholders in Australia, we’re developing a private-pilot insurance platform built on SSI and trust frameworks — a proving ground for what community-anchored risk management can look like.
+- In collaboration with key insurance ecosystem stakeholders in Australia, we’re developing a private-pilot insurance platform built on SSI and trust frameworks — a proving ground for what community-anchored risk management can look like.
 
 ### Health
 *Re-imagining health through membership, collaboration, and shared data.*
 
-[selfdriven.health](https://selfdriven.health) is taking shape — focused on member-based models for better health outcomes, powered by beHub and selfdriven.
+- [selfdriven.health](https://selfdriven.health) is taking shape — focused on member-based models for better health outcomes, powered by beHub and selfdriven.
 
 ### Community, Mallorca BioHub
 *Growing regenerative practice through verifiable community action.*
 
-The BioHub project continues to gain momentum, linking regenerative practice with verifiable data and community development.  
+- The BioHub project continues to gain momentum, linking regenerative practice with verifiable data and community development.  
 - [actuate.selfdriven.community/use-cases](https://actuate.selfdriven.community/use-cases)
 
 ### Unity Node, Infra Interface, selfdriven.tel
