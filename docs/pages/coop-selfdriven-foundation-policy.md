@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Policy - selfdriven Cooperatives
+title: Policy - Cooperative Governance - selfdriven Foundation
 permalink: /coop/policy
 ---
 
-# Membership Policy — selfdriven Foundation Cooperative
+# Membership Policy — selfdriven Foundation Co-Operative
 
 This Policy supports the Constitution and ByLaws and explains how membership works in practice.
 

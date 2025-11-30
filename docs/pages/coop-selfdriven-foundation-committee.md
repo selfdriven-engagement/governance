@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Committee - selfdriven Cooperatives
+title: Committee Template - Cooperative Governance - selfdriven Foundation
 permalink: /coop/templates/committee
 ---
 
-# Committee — {{ Circle Name }}
+# Committee — {{ Committee Name }}
 
 ## Purpose
 Describe the role and purpose of the Circle in one paragraph.

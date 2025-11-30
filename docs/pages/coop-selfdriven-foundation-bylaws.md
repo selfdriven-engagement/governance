@@ -4,16 +4,15 @@ title: ByLaws - Cooperative Governance - selfdriven Foundation
 permalink: /coop/bylaws
 ---
 
-# ByLaws — selfdriven Foundation Cooperative
-_(Operational rules that sit under the Constitution)_
+# ByLaws — selfdriven Foundation Co-operative
 
-These ByLaws describe **how the Cooperative functions day-to-day**. Where there is any conflict, the **Constitution takes precedence**.
+These ByLaws describe **how the Co-operative functions day-to-day**. Where there is any conflict, the **Constitution takes precedence**.
 
 ---
 
 ## 1. Interpretation & Scope
-- These ByLaws apply to all members, Circles, committees, working groups and elected representatives.
-- The Board of Stewards maintains the current version and may propose amendments to the General Assembly.
+- These ByLaws apply to all members, committees, working groups and elected representatives.
+- The Board maintains the current version and may propose amendments.
 - Detailed procedures may be documented in policies without requiring a ByLaws amendment.
 
 ---
@@ -31,7 +30,7 @@ Members are expected to:
 
 ### 2.3 Lapsed / Dormant Membership
 - Members with **no engagement for 12 months** may be contacted to confirm intent to remain active.
-- After a reasonable attempt at contact, the Membership Circle may recommend suspension to the Board of Stewards.
+- After a reasonable attempt at contact, the Membership Committee may recommend suspension to the Board of Stewards.
 
 ### 2.4 Resignation & Transfer of Work
 - Members who resign must ensure reasonable handover of responsibilities and project assets associated with Cooperative stewardship.
@@ -39,16 +38,16 @@ Members are expected to:
 ---
 
 ## 3. Governance — Operational Rules
-### 3.1 Circles and Committees
-- Circles operate with delegated authority granted by the Board or General Assembly.
-- Each Circle must maintain:
+### 3.1 Committees and Committees
+- Committees operate with delegated authority granted by the Board or General Assembly.
+- Each Committee must maintain:
   - scope and mandate;
   - membership list;
   - meeting rhythm;
   - decision-record-keeping.
 
-### 3.2 Circle Leads
-- Leads are selected by Circle members and ratified by the Board.
+### 3.2 Committee Leads
+- Leads are selected by Committee members and ratified by the Board.
 - Leads may be rotated at least annually to support shared stewardship.
 
 ### 3.3 Transparency
@@ -63,7 +62,7 @@ The Constitution defines formal powers; these ByLaws define practical operation.
 - Discussion may occur asynchronously before a vote.
 - Members may submit an agenda item or proposal by:
   - notifying two Stewards, **or**
-  - raising it through a Circle with delegated mandate.
+  - raising it through a Committee with delegated mandate.
 
 **Minimum supporting information for proposals:**
 - summary of decision requested;
@@ -95,9 +94,9 @@ The Constitution defines formal powers; these ByLaws define practical operation.
 ---
 
 ## 7. Conflict Resolution
-- Most issues should be resolved at Circle level where possible.
+- Most issues should be resolved at Committee level where possible.
 - If unresolved, escalation path:
-  1. Circle Lead(s)
+  1. Committee Lead(s)
   2. Board of Stewards
   3. independent review (appointed by Board)
 
@@ -133,9 +132,3 @@ The Constitution defines formal powers; these ByLaws define practical operation.
 - **Constitution = legal foundation**
 - **ByLaws = operational rules**
 - **Policies = procedural detail**
-
-Hierarchy:
-1. Constitution  
-2. ByLaws  
-3. Policies / Operating Manuals  
-4. Circle Charters

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Membership - selfdriven Cooperatives
+title: Membership - Cooperative Governance - selfdriven Foundation
 permalink: /coop/membership
 ---
 
@@ -20,7 +20,7 @@ We are **member-owned**, **member-governed** and **mission-driven**.
 - Community benefit over extraction  
 - Ethical, human-aligned technology  
 
-Our formal rules are set out in the [Constitution](/constitution). This page is the plain-language overview.
+Our formal rules are set out in the [Constitution](/coop/constitution). This page is the plain-language overview.
 
 ---
 
@@ -86,5 +86,3 @@ We are building an ecosystem where learning, technology, governance and communit
 - Everyone belongs.  
 - Everyone can contribute.  
 - Everyone should benefit from the progress we make together.
-
-If you have questions about joining, responsibilities, or your rights as a member, please refer to the [Constitution](/templates/selfdriven/coop/constitution) or contact the Cooperative.

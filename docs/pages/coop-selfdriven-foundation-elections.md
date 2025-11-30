@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Elections - selfdriven Cooperatives
+title: Elections - Cooperative Governance - selfdriven Foundation
 permalink: /coop/elections
 ---
 
-# Governance Elections Handbook — selfdriven Foundation Cooperative
+# Governance Elections Handbook — selfdriven Foundation Co-Operative
 
 This Handbook explains how democratic governance operates in practice.  
 It sits under the Constitution and ByLaws.

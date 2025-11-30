@@ -9,6 +9,7 @@ title: Home
 - Updates:
     - [OCT2025](/updates/oct2025)
     - [*Previous*](https://selfdriven.fyi/roadmap/#updates)
+- [Co-Operative](/cooperative)
 
 ### References
 
