@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Constitution - selfdriven Cooperatives
+title: Constitution - Cooperative Governance - selfdriven Foundation
 permalink: /coop/constitution
 ---
 
-# Constitution of the selfdriven Foundation Cooperative
+# Constitution of the selfdriven Foundation Co-Operative
 
 ## 1. Name and Legal Form
 
@@ -93,7 +93,7 @@ permalink: /coop/constitution
 
 5.5 Board members serve terms of up to two (2) years, and may be re-elected once consecutively, subject to rotation and eligibility rules established by the General Assembly.
 
-5.6 The Cooperative may establish **Committees or Circles** with delegated authority for specific domains or functions. Their powers and responsibilities must be defined in written charters approved by the Board or General Assembly.
+5.6 The Cooperative may establish **Committees or Committees** with delegated authority for specific domains or functions. Their powers and responsibilities must be defined in written charters approved by the Board or General Assembly.
 
 5.7 Conflicts of interest must be disclosed in accordance with policy. A person with a material conflict of interest in relation to a matter must not vote on that matter and may be required to abstain from relevant deliberations.
 
@@ -158,7 +158,7 @@ will be governed by licence terms and policies approved by the Board of Stewards
 - (a) an annual activity report; and
 - (b) annual financial statements and, where required by law, audited financial statements.
 
-9.2 Governance decisions, key policies, and the charters of Committees and Circles must be recorded and made accessible to members, subject to privacy and confidentiality requirements.
+9.2 Governance decisions, key policies, and the charters of Committees and Committees must be recorded and made accessible to members, subject to privacy and confidentiality requirements.
 
 9.3 Members may request access to Cooperative records, subject to applicable law, confidentiality obligations and reasonable administrative limitations.
 

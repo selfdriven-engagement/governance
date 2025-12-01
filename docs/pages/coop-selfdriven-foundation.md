@@ -8,7 +8,7 @@ permalink: /cooperative
 
 The selfdriven Foundation is a Co-Operative in the process of being registered with the Victorian State Goverment in Australia - *DEC 2025*.
 
-- Legal Name: "selfdriven Foundatrion Co-Operative"
+- Legal Name: "selfdriven Foundation Co-Operative"
 - Type: Non-distributing Co-op (NDC)
 - Registered Office: 45 Glenferrie Road, Suite #1053, Malvern, VIC 3144
 
