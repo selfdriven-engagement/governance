@@ -42,6 +42,10 @@ We ran our first *selfdriven Reflect & Project* gathering in Berlin in November!
 
 It was the first time we had meet in-person.  It was a great experience and combined with the Cardano Summit it was fun and productive!
 
+Outcomes of our 2026 planning will be report shortly.
+
+- [Roadmap](/roadmap)
+
 ### selfdriven.network
 
 We formalised the selfdriven Network with it's eight core interfaces, including
