@@ -1,13 +1,15 @@
 ---
 layout: default
-title: NOV2025 - Updates - selfdriven Gov
-permalink: /updates/oct2025/
-description: "NOV2025 - selfdriven Gov - Updates"
+title: DEC2025 - Updates - selfdriven Gov
+permalink: /updates/dec2025/
+description: "DEC2025 - selfdriven Gov - Updates"
 ---
 
-# Update # NOV 2025
+# Update # DEC 2025
 
-**It's been another busy month**
+**It's been another busy two months!**
+
+This update is our end of year reflection.
 
 ---
 
@@ -22,6 +24,38 @@ description: "NOV2025 - selfdriven Gov - Updates"
 
 **Beyond all the research, frameworks, and multidimensional building — [selfdriven.services](https://selfdriven.services) is busy delivering real-world projects that connect purpose with practice.**
  
+---
+- branding
+- .network
+- Websites
+- .tel
+- .services - insurance
+- Berlin
+- KERI - Veridian MoU
+- Selfdriven.university
+- Health
+- Community - Mallorca
+- Octochain 
+- Handshake
+- .social
+- Apps
+- AI - impact on mind - /research
+- Heyocto 
+- merch - build own
+- Actuate
+- connect - x handles
+- webauthn
+- octomics
+- GitHub
+- Institute
+- Group
+- support
+- Tech
+- Octology
+- Cardano support
+- Coop
+- Agency
+- Interfaces
 
 ---
 
