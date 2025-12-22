@@ -8,7 +8,8 @@ description: "selfdriven Gov - Updates"
 # Updates
 
 We do community updates every two months.
-The December update is a year in reflection update.
+
+The December update is the "Year in Reflection" update.
 
 - [DEC2025](/updates/dec2025)
 - [OCT2025](/updates/oct2025)

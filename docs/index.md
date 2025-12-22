@@ -5,7 +5,7 @@ title: Home
 
 ## selfdriven Foundation Governance
 
-- [Roadmap](/roadmap/):
+- [Roadmap](/roadmap/)
 - [Updates](/updates)
 - [Co-Operative](/cooperative)
 
