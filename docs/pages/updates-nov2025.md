@@ -25,37 +25,37 @@ This update is our end of year reflection.
 **Beyond all the research, frameworks, and multidimensional building — [selfdriven.services](https://selfdriven.services) is busy delivering real-world projects that connect purpose with practice.**
  
 ---
-- branding
+- Branding
 - .network
 - Websites
-- .tel
+- .tel - unity, WM earthnode
 - .services - insurance
 - Berlin
 - KERI - Veridian MoU
-- Selfdriven.university
-- Health
-- Community - Mallorca
-- Octochain 
-- Handshake
+- .university
+- .health
+- Community - Mallorca Hub
+- octochain.network
+- .network, infra, Handshake Domains
 - .social
 - Apps
 - AI - impact on mind - /research
-- Heyocto 
-- merch - build own
-- Actuate
-- connect - x handles
-- webauthn
-- octomics
-- GitHub
-- Institute
-- Group
-- support
-- Tech
-- Octology
-- Cardano support
-- Coop
-- Agency
-- Interfaces
+- heyocto.ai, models
+- Merch - build own
+- actuate.selfdriven.community
+- /connect - x handles
+- webauthn - Human Interface
+- octomics.io
+- GitHub Repos
+- .institute
+- .group
+- .support
+- .tech
+- .octology
+- Cardano Community support - websites
+- .coop
+- .agency
+- .network - Interfaces
 
 ---
 
