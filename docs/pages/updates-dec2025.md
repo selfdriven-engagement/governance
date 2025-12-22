@@ -59,7 +59,7 @@ Including a number of frameworks eg.g Impact on Mind
 
 ### Merch
 
--e completed a first custom designed selfdriven Merch clothing runs!
+We completed a first custom designed selfdriven Merch clothing runs!
 
 - [Order your custom Merch](https://shop.selfdriven.foundation)
 
