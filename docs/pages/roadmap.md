@@ -7,9 +7,7 @@ description: "selfdriven Gov - Roadmap"
 
 # Roadmap
 
-## Planning
-
-### 2026
+## 2026
 
 **We are currently in planning for 2026, including our *selfdriven Reflect & Project* in Berlin November 2025.**
 
@@ -20,7 +18,7 @@ The main theme is to continue developing each of the areas of focuses as we curr
 |Area of Focus|Driven By|
 |:-----------:|:-------:|
 |Tech|Mark Byers|
-|Organisational Systems|Bence Lukacs|
+|Org Systems|Bence Lukacs|
 |Research|Benjamin Heurich|
 |Services|Damian Noonan|
 
@@ -28,7 +26,7 @@ The main theme is to continue developing each of the areas of focuses as we curr
 
 ---
 
-## Small Items
+**Small Items**
 - skillzeb.io - support the SKILL.md protocol
 - Intgrate Handshake protocol into selfdriven.network
 - x402 Integration
@@ -37,10 +35,10 @@ The main theme is to continue developing each of the areas of focuses as we curr
 
 ---
 
-## References
+### References
 
-- [https://selfdriven.fyi/roadmap](https://selfdriven.fyi/roadmap)
+- [Previous Roadmap](https://selfdriven.fyi/roadmap)
 
-## Related
+### Related
 
 - [Updates](/updates)
