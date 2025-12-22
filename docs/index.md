@@ -5,10 +5,8 @@ title: Home
 
 ## selfdriven Foundation Governance
 
-- [Roadmap](/roadmap/)
-- Updates:
-    - [OCT2025](/updates/oct2025)
-    - [*Previous*](https://selfdriven.fyi/roadmap/#updates)
+- [Roadmap](/roadmap/):
+- [Updates](/updates)
 - [Co-Operative](/cooperative)
 
 ### References
@@ -23,6 +21,7 @@ title: Home
 
 - [octomics.io](https://www.octomics.io)
 - [resources.selfdriven.foundation](https://resources.selfdriven.foundation)
+- [selfdriven.fyi](https://selfdriven.fyi)
 
 
 
