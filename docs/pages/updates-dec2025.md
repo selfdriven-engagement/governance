@@ -83,7 +83,7 @@ Dedicated Actuation & Support websites.
 - [selfdriven.social](https://selfdriven.social)
 - [selfdriven.education](https://selfdriven.education)
 - [selfdriven.university](https://selfdriven.university)
-- [octology.iol](https://octology.io)
+- [octology.io](https://octology.io)
 - [octomics.io](https://octomics.io)
 - [heyocto.ai](https://heyocto.ai) - latest models
 
