@@ -73,7 +73,7 @@ Dedicated Actuation & Support websites.
 - [actuate.selfdriven.community](https://actuate.selfdriven.community)
 - [selfdriven.support](https://selfdriven.support)
 
-### Specific domains:
+### Specific Domains
 
 - [selfdriven.institute](https://selfdriven.institute)
 - [selfdriven.group](https://selfdriven.group)
