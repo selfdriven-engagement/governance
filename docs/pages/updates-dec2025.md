@@ -120,7 +120,7 @@ We have number of key projects that are building for materialisation in 2026:
 
 We are building dedicated Co-operative support.
 
-Starting with the the *selfdriven Foundation Co-Operative"
+Starting with the the *selfdriven Foundation Co-Operative*.
 
 - [selfdriven.coop](https://selfdriven.coop)
 
