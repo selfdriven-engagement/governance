@@ -56,7 +56,7 @@ We formalised the selfdriven Network with it's eight core interfaces, including
 
 ### selfdriven.ai
 
-We continued work on the impace of Generative AI on our society.
+We continued work on the impact of Generative AI on our society.
 Including a number of frameworks eg.g Impact on Mind
 
 - [selfdriven.ai](https://selfdriven.ai)
