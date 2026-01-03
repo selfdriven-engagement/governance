@@ -48,10 +48,9 @@ Outcomes of our 2026 planning will be report shortly.
 
 ### selfdriven.network
 
-We formalised the selfdriven Network with it's eight core interfaces, including
-- Infra, Handshake Domains, octochain.network
-- webauthn - Human Interface
-
+We formalised the selfdriven Network with it's eight core interfaces, including:
+- Infra - Handshake Domains, octochain.network.
+- Human Interface - webauthn.
 - [selfdriven.network](https://selfdriven.network)
 
 ### selfdriven.ai
